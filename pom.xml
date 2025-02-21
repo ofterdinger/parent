@@ -139,7 +139,7 @@
     <maven-clean-plugin.version>3.4.1</maven-clean-plugin.version>
 
     <!-- https://search.maven.org/artifact/org.apache.maven.plugins/maven-compiler-plugin -->
-    <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
+    <maven-compiler-plugin.version>3.14.0</maven-compiler-plugin.version>
 
     <!-- https://search.maven.org/artifact/org.apache.maven.plugins/maven-dependency-plugin -->
     <maven-dependency-plugin.version>3.8.1</maven-dependency-plugin.version>
